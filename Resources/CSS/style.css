@@ -1,9 +1,48 @@
 body {
-background-color: black;}
+background-color: black;
+}
 .Header1 {
   text-align: center;
   font-weight: normal;
   font-size: 50px;
   font-family: verdana;
   color: white;
+}
+.comingsoon {
+color: aquamarine;
+font-size: 16px;
+text-align: center;
+font-family: verdana;
+}
+video {
+text-align: center;
+}
+.header2 {
+font-family: verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+text-align: center;
+}
+.gray {
+color: gray;
+text-align: center;
+font-family: verdana;
+font-size: 21px;
+}
+.header3 {
+color: white;
+font-family: verdana;
+font-weight: 300;
+font-size: 42px
+}
+.comingsoon2 {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  font-family: verdana;
+}
+.lastpart {
+color: gray;
+text-align: right;
 }
